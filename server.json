@@ -1,3 +1,9 @@
 {
-    "schedules": []
+  "schedules": [
+    {
+      "id": "1746924250515",
+      "name": "joao vitor",
+      "when": "2025-05-11T16:00:00.000Z"
+    }
+  ]
 }
